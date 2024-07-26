@@ -2,6 +2,306 @@
 
 # Changelog
 
+### [Version 1.6.13](https://github.com/lobehub/lobe-chat/compare/v1.6.12...v1.6.13)
+
+<sup>Released on **2024-07-25**</sup>
+
+#### 💄 Styles
+
+- **misc**: Updated Groq model list to include llama-3.1 and llama3-Groq.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Updated Groq model list to include llama-3.1 and llama3-Groq, closes [#3313](https://github.com/lobehub/lobe-chat/issues/3313) ([a9cfad6](https://github.com/lobehub/lobe-chat/commit/a9cfad6))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.6.12](https://github.com/lobehub/lobe-chat/compare/v1.6.11...v1.6.12)
+
+<sup>Released on **2024-07-25**</sup>
+
+#### 💄 Styles
+
+- **misc**: Add new models to groq which are llama 3.1.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Add new models to groq which are llama 3.1, closes [#3301](https://github.com/lobehub/lobe-chat/issues/3301) ([ec20fd0](https://github.com/lobehub/lobe-chat/commit/ec20fd0))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.6.11](https://github.com/lobehub/lobe-chat/compare/v1.6.10...v1.6.11)
+
+<sup>Released on **2024-07-24**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix `UNAUTHORIZED` issue with clerk auth provider.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix `UNAUTHORIZED` issue with clerk auth provider, closes [#3299](https://github.com/lobehub/lobe-chat/issues/3299) ([97bea09](https://github.com/lobehub/lobe-chat/commit/97bea09))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.6.10](https://github.com/lobehub/lobe-chat/compare/v1.6.9...v1.6.10)
+
+<sup>Released on **2024-07-23**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Upgrade snapshot version.
+
+#### 💄 Styles
+
+- **misc**: Fix the scrolling of the return result area of function calling.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Upgrade snapshot version, closes [#3296](https://github.com/lobehub/lobe-chat/issues/3296) ([2c14fef](https://github.com/lobehub/lobe-chat/commit/2c14fef))
+
+#### Styles
+
+- **misc**: Fix the scrolling of the return result area of function calling, closes [#3295](https://github.com/lobehub/lobe-chat/issues/3295) ([9c8f469](https://github.com/lobehub/lobe-chat/commit/9c8f469))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.6.9](https://github.com/lobehub/lobe-chat/compare/v1.6.8...v1.6.9)
+
+<sup>Released on **2024-07-23**</sup>
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.6.8](https://github.com/lobehub/lobe-chat/compare/v1.6.7...v1.6.8)
+
+<sup>Released on **2024-07-23**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Move server modules.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Move server modules, closes [#3291](https://github.com/lobehub/lobe-chat/issues/3291) ([c7c9f39](https://github.com/lobehub/lobe-chat/commit/c7c9f39))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.6.7](https://github.com/lobehub/lobe-chat/compare/v1.6.6...v1.6.7)
+
+<sup>Released on **2024-07-23**</sup>
+
+#### 💄 Styles
+
+- **misc**: Add new model provider Novita AI.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Add new model provider Novita AI, closes [#3177](https://github.com/lobehub/lobe-chat/issues/3177) ([08b063f](https://github.com/lobehub/lobe-chat/commit/08b063f))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.6.6](https://github.com/lobehub/lobe-chat/compare/v1.6.5...v1.6.6)
+
+<sup>Released on **2024-07-22**</sup>
+
+#### ♻ Code Refactoring
+
+- **model**: Clear and add models.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **model**: Clear and add models, closes [#3208](https://github.com/lobehub/lobe-chat/issues/3208) ([ef54191](https://github.com/lobehub/lobe-chat/commit/ef54191))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.6.5](https://github.com/lobehub/lobe-chat/compare/v1.6.4...v1.6.5)
+
+<sup>Released on **2024-07-22**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Content lost unexpectedly on Qwen provider when `finish_reason` is `stop`.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Content lost unexpectedly on Qwen provider when `finish_reason` is `stop`, closes [#3252](https://github.com/lobehub/lobe-chat/issues/3252) ([d35c5b0](https://github.com/lobehub/lobe-chat/commit/d35c5b0))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.6.4](https://github.com/lobehub/lobe-chat/compare/v1.6.3...v1.6.4)
+
+<sup>Released on **2024-07-21**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Add trpc query client with react-query.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Add trpc query client with react-query, closes [#3282](https://github.com/lobehub/lobe-chat/issues/3282) ([013ee54](https://github.com/lobehub/lobe-chat/commit/013ee54))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.6.3](https://github.com/lobehub/lobe-chat/compare/v1.6.2...v1.6.3)
+
+<sup>Released on **2024-07-21**</sup>
+
+#### 💄 Styles
+
+- **misc**: Update Zhipu models (GLM-4-AllTools & CodeGeeX-4).
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Update Zhipu models (GLM-4-AllTools & CodeGeeX-4), closes [#3255](https://github.com/lobehub/lobe-chat/issues/3255) ([a92939f](https://github.com/lobehub/lobe-chat/commit/a92939f))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.6.2](https://github.com/lobehub/lobe-chat/compare/v1.6.1...v1.6.2)
+
+<sup>Released on **2024-07-21**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix dayjs render on server.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix dayjs render on server, closes [#3278](https://github.com/lobehub/lobe-chat/issues/3278) ([8c08dd5](https://github.com/lobehub/lobe-chat/commit/8c08dd5))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.6.1](https://github.com/lobehub/lobe-chat/compare/v1.6.0...v1.6.1)
 
 <sup>Released on **2024-07-19**</sup>
